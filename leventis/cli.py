@@ -31,7 +31,12 @@ def bhl(binomial):
 
     logger.setLevel(logging.INFO)
 
-    bhl_citations = BHLCitations(binomial)
+    bhl_citations = BHLCitations()
+
+    images = bhl_citations.get_images()
+    print(images)
+
+    # bhl_citations.build_dataframe()
 
     # bhl_citations.download_images()
     # print(bhl_citations.output_citations_without_urls())
@@ -39,13 +44,13 @@ def bhl(binomial):
 
 @leventis.command()
 @click.option('--binomial', default=None)
-def ocr(binomial):
+def rebuild(binomial):
     """
     OCR an image
     """
-    bhl_citations = BHLCitations(binomial)
-    for image in bhl_citations.get_images():
-        image.ocr()
+    logger.setLevel(logging.INFO)
+    bhl_citations = BHLCitations()
+    bhl_citations.build_dataframe()
 
 
 if __name__ == "__main__":
