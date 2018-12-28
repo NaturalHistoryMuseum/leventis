@@ -50,7 +50,6 @@ def rebuild(binomial):
     """
     logger.setLevel(logging.INFO)
     bhl_citations = BHLCitations()
-    bhl_citations.build_dataframe()
 
 
 if __name__ == "__main__":
