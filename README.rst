@@ -14,6 +14,9 @@ Leventis OCR
 Usage
 -----
 
+leventis bhl --binomial 'Artabotrys stenopetalus'
+
+
 Installation
 ------------
 
