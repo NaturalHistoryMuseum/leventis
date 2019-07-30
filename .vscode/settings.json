@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/bens3/.virtualenvs/leventis/bin/python"
+    "python.pythonPath": "/Users/bens3/.virtualenvs/leventis/bin/python",
+    "restructuredtext.confPath": ""
 }

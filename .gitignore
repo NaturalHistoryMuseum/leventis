@@ -106,5 +106,7 @@ venv.bak/
 # Custom
 .DS_Store
 *.sqlite
-data/images
-data/ocr
+output/*
+data/models/*
+!data/models/*.pkl
+.vscode
