@@ -1,0 +1,1529 @@
+{"label": "TRAIT", "pattern": [{"lower": "s"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "v"}, {"lower": "form"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "digitate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "parted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "partite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistilled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "serrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "whorled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "winged"}]}
+{"label": "TRAIT", "pattern": [{"lower": "abaxial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "absent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "acaulescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "acaulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "achlamydeous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "acicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "actinomorphic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aerial"}, {"lower": "rooted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "agamospermous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aggregated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "amplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "amplexicaulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androgynecandrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androgynous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "andromonoecious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "andropetalous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "anisopetalous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "annual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "apetalous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aphyllous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "apocarpous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "apopetalous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "arboreous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "armed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "asymmetric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "asymmetrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "auriform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awl"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awned"}]}
+{"label": "TRAIT", "pattern": [{"lower": "barbate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "barbed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bearded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "beige"}]}
+{"label": "TRAIT", "pattern": [{"lower": "berry"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "berrylike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bisexual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blackish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blue"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bluish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branching"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bristly"}]}
+{"label": "TRAIT", "pattern": [{"lower": "broadened"}]}
+{"label": "TRAIT", "pattern": [{"lower": "broader"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brownish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulbiferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulbose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulbous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bush"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bushlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bushy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cactuslike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "caespitose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyciform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyptrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyptriform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyxlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "campanulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "canaliculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "carnose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "catadromous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "clavate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "comose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "copper"}]}
+{"label": "TRAIT", "pattern": [{"lower": "coral"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuculliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuniculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "curled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "curling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "curly"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cylindric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cylindrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "darker"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deciduous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "decurrent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dehiscent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deltate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deltoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "didynamous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dimorphic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dioecious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dioecous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dusky"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dwarfed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ear"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ellipsoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ellipsoidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elliptical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elongated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "emarginate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "endophytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ensate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ensiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "entire"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ephemeral"}]}
+{"label": "TRAIT", "pattern": [{"lower": "epiphytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "erect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "evergreen"}]}
+{"label": "TRAIT", "pattern": [{"lower": "falcate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "feather"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "felted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "feltlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "felty"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fenestrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fiddle"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "filiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fimbriate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fimbrillate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fistulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flabellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flabelliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flagelliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flat"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flattened"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floccose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "free"}]}
+{"label": "TRAIT", "pattern": [{"lower": "free"}, {"lower": "central"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fuscous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fused"}]}
+{"label": "TRAIT", "pattern": [{"lower": "geophytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glabrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glabrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glaucous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "globose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gold"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}]}
+{"label": "TRAIT", "pattern": [{"lower": "graying"}]}
+{"label": "TRAIT", "pattern": [{"lower": "grayish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "green"}]}
+{"label": "TRAIT", "pattern": [{"lower": "greener"}]}
+{"label": "TRAIT", "pattern": [{"lower": "greenish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gregarious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynandrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynecandrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynodioecious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hairless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hairy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hastate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "heart"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hemiepiphytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hemispheric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hemispherical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hermaphroditic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "heterogamous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirsute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirsutellous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirsutulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirtellous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispidulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indehiscence"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indehiscent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indusiate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "insect"}, {"lower": "pollinated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "involute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ivory"}]}
+{"label": "TRAIT", "pattern": [{"lower": "labiate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lacerate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lacking"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanceoloid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lavender"}]}
+{"label": "TRAIT", "pattern": [{"lower": "liana"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lianous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lingulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lobulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lunate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "male"}]}
+{"label": "TRAIT", "pattern": [{"lower": "maroon"}]}
+{"label": "TRAIT", "pattern": [{"lower": "masculine"}]}
+{"label": "TRAIT", "pattern": [{"lower": "matted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "matlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "naked"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obclavate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obcordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obcordiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obdeltate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obdeltoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblanceoloid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblanciform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obovoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obtuse"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obutse"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orange"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orangish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orbiculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oval"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "cordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "lanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "rhombic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "rose"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "yellow"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pallid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatifid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatipinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pandurate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "panduriform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "peach"}]}
+{"label": "TRAIT", "pattern": [{"lower": "peach"}, {"lower": "bronze"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pear"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pellucid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pelviform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perennate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perfoliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perforate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "piliferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pilose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pilosulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pilosulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pink"}, {"lower": "magenta"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinkish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatifid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "plaited"}]}
+{"label": "TRAIT", "pattern": [{"lower": "plumose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "polygamous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "puberulent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "puberulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "publerulent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pubsecent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "magenta"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purplish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purplish"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pyriform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "radial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "radiate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ramentaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rectangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "recurved"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "magenta"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "orange"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reniform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "repand"}]}
+{"label": "TRAIT", "pattern": [{"lower": "repent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "retuse"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "cuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhomboid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rose"}, {"lower": "pink"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rose"}, {"lower": "purple"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rotund"}]}
+{"label": "TRAIT", "pattern": [{"lower": "round"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rufous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sagittate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "samaralike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "saprophytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scaley"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scandent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scapelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scapose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scarlet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scrambling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scutate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scutellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scutelliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiobterete"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiorbiculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiprostrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sericeous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "serrulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "shrub"}]}
+{"label": "TRAIT", "pattern": [{"lower": "biennial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "winter"}, {"lower": "annual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "winter"}, {"lower": "annuals"}]}
+{"label": "TRAIT", "pattern": [{"lower": "shrubby"}]}
+{"label": "TRAIT", "pattern": [{"lower": "silky"}]}
+{"label": "TRAIT", "pattern": [{"lower": "small"}, {"lower": "bristly"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spikeleted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spineless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spiny"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sprawling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stemless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stoloniferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "straggling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "straw"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stramineous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "striate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "strigillose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "strigulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subacaulescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subacute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcircular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcylindric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdioecious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subelliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subentire"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subflabelliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subglabrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subhastate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublinear"}]}
+{"label": "TRAIT", "pattern": [{"lower": "submerged"}]}
+{"label": "TRAIT", "pattern": [{"lower": "submergent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "submersed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subobtuse"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suborbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suborbiculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subperfoliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subplumose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subreniform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subscabrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subscandent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subshrub"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subshrubby"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspatulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspherical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspinescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspinose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtriangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtruncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "succulent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suffrutescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suffruticose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suffruticulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "summer"}, {"lower": "annual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "summer"}, {"lower": "annuals"}]}
+{"label": "TRAIT", "pattern": [{"lower": "symmetrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sympetalous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "syncarpous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "terrestrial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tomentulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tomentulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trapeziform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tree"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tree"}, {"lower": "form"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tree"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "treelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuberlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuberous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tubular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tufted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "twining"}]}
+{"label": "TRAIT", "pattern": [{"lower": "umbonate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unarmed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unciform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unconnected"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unguiculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unilabiate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unisexual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "urceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "urn"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "utriclelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "valvate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "vegetative"}]}
+{"label": "TRAIT", "pattern": [{"lower": "velutinous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "velvety"}]}
+{"label": "TRAIT", "pattern": [{"lower": "villose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "villosulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "vinelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "vine"}]}
+{"label": "TRAIT", "pattern": [{"lower": "viny"}]}
+{"label": "TRAIT", "pattern": [{"lower": "violet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "virgate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "voluble"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "whitish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "woolly"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "bronze"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellowish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "zig"}, {"lower": "zag"}]}
+{"label": "TRAIT", "pattern": [{"lower": "zygomorphic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aciculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "black"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dwarf"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elongating"}]}
+{"label": "TRAIT", "pattern": [{"lower": "geocarpous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "winglike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "striped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semidioecious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perennating"}]}
+{"label": "TRAIT", "pattern": [{"lower": "herb"}]}
+{"label": "TRAIT", "pattern": [{"lower": "herbs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "annuals"}]}
+{"label": "TRAIT", "pattern": [{"lower": "biennials"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bushes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "geophytes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lianas"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perennials"}]}
+{"label": "TRAIT", "pattern": [{"lower": "shrubs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subshrubs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trees"}]}
+{"label": "TRAIT", "pattern": [{"lower": "vines"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awnlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bristled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "caducous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "achene"}]}
+{"label": "TRAIT", "pattern": [{"lower": "akene"}]}
+{"label": "TRAIT", "pattern": [{"lower": "acorn"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aerial"}, {"lower": "root"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aggregate"}, {"lower": "fruit"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androecial"}, {"lower": "tube"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androecium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androecia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androgynophore"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awn"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bark"}]}
+{"label": "TRAIT", "pattern": [{"lower": "beard"}]}
+{"label": "TRAIT", "pattern": [{"lower": "berry"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branch"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bristle"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulb"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyptra"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsule"}]}
+{"label": "TRAIT", "pattern": [{"lower": "caryopsis"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cilium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cilia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cladode"}]}
+{"label": "TRAIT", "pattern": [{"lower": "corm"}]}
+{"label": "TRAIT", "pattern": [{"lower": "corolla"}, {"lower": "tube"}]}
+{"label": "TRAIT", "pattern": [{"lower": "culm"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dehiscence"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupe"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupelet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fig"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floral"}, {"lower": "cup"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floral"}, {"lower": "tube"}]}
+{"label": "TRAIT", "pattern": [{"lower": "follicle"}]}
+{"label": "TRAIT", "pattern": [{"lower": "frond"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fruit"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynandrium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynandria"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hair"}]}
+{"label": "TRAIT", "pattern": [{"lower": "haustorium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "haustoria"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indument"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indumentum"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indumenta"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indusium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indusia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "labellum"}]}
+{"label": "TRAIT", "pattern": [{"lower": "labella"}]}
+{"label": "TRAIT", "pattern": [{"lower": "legume"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lemma"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lemmas"}]}
+{"label": "TRAIT", "pattern": [{"lower": "nut"}]}
+{"label": "TRAIT", "pattern": [{"lower": "nutlet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovary"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pappi"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pepo"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perianth"}, {"lower": "tube"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pome"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pseudobulb"}]}
+{"label": "TRAIT", "pattern": [{"lower": "replum"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rootstock"}]}
+{"label": "TRAIT", "pattern": [{"lower": "samara"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scape"}]}
+{"label": "TRAIT", "pattern": [{"lower": "seed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "septum"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spikelet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stem"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stolon"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sucker"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suffrutex"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suffrutices"}]}
+{"label": "TRAIT", "pattern": [{"lower": "syconium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "syconia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "syncarp"}]}
+{"label": "TRAIT", "pattern": [{"lower": "taproot"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tendril"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thorn"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trichome"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trunk"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuber"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuberoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuft"}]}
+{"label": "TRAIT", "pattern": [{"lower": "utricle"}]}
+{"label": "TRAIT", "pattern": [{"lower": "wood"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thorny"}]}
+{"label": "TRAIT", "pattern": [{"lower": "s"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perennial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "herbaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiwoody"}]}
+{"label": "TRAIT", "pattern": [{"lower": "straggling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "berrylike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cactuslike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "revolute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "winglike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semielliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "circular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "asymmetric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "asymmetrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "smooth"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tufted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}]}
+{"label": "TRAIT", "pattern": [{"lower": "solitary"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spiny"}]}
+{"label": "TRAIT", "pattern": [{"lower": "barbed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "radiate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "symmetrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "symmetric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scaly"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pulpy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcreeping"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "lenticellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "substellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "achenes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "anthers"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branches"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bristles"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsules"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cataphyll"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cataphylls"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupelets"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "follicles"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fruits"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hairs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "nutlets"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scapes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "seeds"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spines"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stolons"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suckers"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thorns"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trichomes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tube"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tubers"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "lined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purplish"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awns"}]}
+{"label": "TRAIT", "pattern": [{"lower": "edges"}]}
+{"label": "TRAIT", "pattern": [{"lower": "induments"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rootstocks"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinules"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tendrils"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trunks"}]}
+{"label": "TRAIT", "pattern": [{"lower": "green"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "greenish"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rose"}, {"lower": "purple"}, {"lower": "tinted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lilac"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "lanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}, {"lower": "penicillate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "curls"}]}
+{"label": "TRAIT", "pattern": [{"lower": "treelets"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulbs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subemarginate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subattenuate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obtuse"}, {"lower": "rounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fenestrae"}]}
+{"label": "TRAIT", "pattern": [{"lower": "legumes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "root"}, {"lower": "nodules"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblongelliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "lanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obovate"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elliptic"}, {"lower": "lanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "berries"}]}
+{"label": "TRAIT", "pattern": [{"lower": "druparia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "druparium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hair"}, {"lower": "tufts"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pseudodrupe"}]}
+{"label": "TRAIT", "pattern": [{"lower": "root"}, {"lower": "tubers"}]}
+{"label": "TRAIT", "pattern": [{"lower": "samaras"}]}
+{"label": "TRAIT", "pattern": [{"lower": "schizocarps"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stellate"}, {"lower": "pubescence"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stem"}, {"lower": "leaves"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliae"}]}
+{"label": "TRAIT", "pattern": [{"lower": "endocarpids"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pseudoberry"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pseudocapsule"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scramblers"}]}
+{"label": "TRAIT", "pattern": [{"lower": "canopy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glandular"}, {"lower": "hairs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setose"}, {"lower": "glands"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "truncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpinnatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcordate"}, {"lower": "truncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}, {"lower": "rounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "culms"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tussocks"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsule"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awn"}, {"lower": "point"}]}
+{"label": "TRAIT", "pattern": [{"lower": "caryopses"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cilioles"}]}
+{"label": "TRAIT", "pattern": [{"lower": "corms"}]}
+{"label": "TRAIT", "pattern": [{"lower": "culm"}, {"lower": "internode"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ephemerals"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glume"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glumes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hair"}, {"lower": "tuft"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spikelets"}]}
+{"label": "TRAIT", "pattern": [{"lower": "turf"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tussock"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branchings"}]}
+{"label": "TRAIT", "pattern": [{"lower": "epiphytes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fronds"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trichosclereids"}]}
+{"label": "TRAIT", "pattern": [{"lower": "utricles"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cladodes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subquadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lithophytes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pseudobulbs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "nuts"}]}
+{"label": "TRAIT", "pattern": [{"lower": "druplet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "druplets"}]}
+{"label": "TRAIT", "pattern": [{"lower": "figs"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "subulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanceolate"}, {"lower": "linear"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "obovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "truncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "obovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}, {"lower": "cuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "amplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "rounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "rhombic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "rounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "oblanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "cuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obong"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "obtuse"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subfiliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}, {"lower": "cordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blue"}, {"lower": "violet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "red"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "bluish"}, {"lower": "violet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reniform"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orbicular"}, {"lower": "reniform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pentagonal"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "orbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "claviform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reniform"}, {"lower": "orbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orbicular"}, {"lower": "obovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orbicular"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semilunate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "subulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subulate"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pentagonal"}, {"lower": "obovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pentagonal"}, {"lower": "reniform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obovate"}, {"lower": "cuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androgynophores"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ferruginous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rubiginous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "rounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "apocarp"}]}
+{"label": "TRAIT", "pattern": [{"lower": "apocarps"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dehiscences"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "red"}, {"lower": "tinted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "greene"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddened"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "quadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "barks"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "sword"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "green"}, {"lower": "and"}, {"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulblike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flaglike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "marked"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "yellow"}, {"lower": "green"}]}
+{"label": "TRAIT", "pattern": [{"lower": "straw"}, {"lower": "colorerd"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palms"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "tinged"}]}
+{"label": "TRAIT", "pattern": [{"lower": "green"}, {"lower": "and"}, {"lower": "white"}, {"lower": "mottled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "green"}, {"lower": "and"}, {"lower": "white"}, {"lower": "striped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "redbrown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellowbrown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "orangebrown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "copper"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "coppery"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanceovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovatelanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanceovoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "u"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "trigonous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulb"}, {"lower": "rhizomes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cormlets"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuberoids"}]}
+{"label": "TRAIT", "pattern": [{"lower": "roundedquadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calpytra"}]}
+{"label": "TRAIT", "pattern": [{"lower": "seed"}, {"lower": "wing"}]}
+{"label": "TRAIT", "pattern": [{"lower": "acorns"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "and"}, {"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "and"}, {"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pink"}, {"lower": "and"}, {"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "and"}, {"lower": "yellow"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "and"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "and"}, {"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "free"}, {"lower": "central"}]}
+{"label": "TRAIT", "pattern": [{"lower": "radials"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinulae"}]}
+{"label": "TRAIT", "pattern": [{"lower": "succulents"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thornlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "roseate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "lilac"}]}
+{"label": "TRAIT", "pattern": [{"lower": "anther"}, {"lower": "less"}]}
+{"label": "TRAIT", "pattern": [{"lower": "acauline"}]}
+{"label": "TRAIT", "pattern": [{"lower": "achenelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "antherless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "azure"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blue"}, {"lower": "mauve"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blue"}, {"lower": "lilac"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bluer"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blue"}, {"lower": "gray"}, {"lower": "green"}]}
+{"label": "TRAIT", "pattern": [{"lower": "browner"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulbiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "apricot"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "caramel"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellowish"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "zigzaglike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "zigzig"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellowish"}, {"lower": "brown"}, {"lower": "hairy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "gray"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "wooly"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellowish"}, {"lower": "brown"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "brown"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "woolly"}, {"lower": "tomentose"}, {"lower": "sericeous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "woolly"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "woody"}, {"lower": "based"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "brown"}, {"lower": "setose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiround"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semispherical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semirotund"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semirounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aneuploid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "ferruginous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "whitish"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ruby"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bell"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cherry"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "white"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "blue"}, {"lower": "black"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "red"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "mauve"}]}
+{"label": "TRAIT", "pattern": [{"lower": "mauvish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pink"}, {"lower": "lilac"}]}
+{"label": "TRAIT", "pattern": [{"lower": "plum"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "black"}, {"lower": "brown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "lilac"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "lilac"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pineapple"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tangerine"}]}
+{"label": "TRAIT", "pattern": [{"lower": "maritime"}]}
+{"label": "TRAIT", "pattern": [{"lower": "marsh"}]}
+{"label": "TRAIT", "pattern": [{"lower": "marshy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pale"}, {"lower": "purple"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fuchsia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subevergreen"}]}
+{"label": "TRAIT", "pattern": [{"lower": "vertilcillate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "urnlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "barbellate"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fingerlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fist"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "auriculiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "falciform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fernlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispid"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirtose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hairbrush"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "half"}, {"lower": "moon"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirsute"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "luniform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lunulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "mulberry"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pilose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pilulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pencil"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rough"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rosette"}, {"lower": "forming"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sagittal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "soft"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "shrublike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "shubshrubby"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sicklelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sickleform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tendril"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rufescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setuliferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tussock"}, {"lower": "forming"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tussocky"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setuliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "velvetlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hermaphrodite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "auriclate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "blue"}, {"lower": "purple"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "violet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "winter"}, {"lower": "annual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "terrestrials"}]}
+{"label": "TRAIT", "pattern": [{"lower": "treelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bullet"}, {"lower": "form"}]}
+{"label": "TRAIT", "pattern": [{"lower": "infundibuliform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiappressed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "mat"}, {"lower": "forming"}]}
+{"label": "TRAIT", "pattern": [{"lower": "burgundy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bacciform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cinereous"}, {"lower": "brunescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cinereous"}, {"lower": "luteous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cunneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "c"}, {"lower": "form"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glabescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "emerald"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flocculent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lianescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "comose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dustlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ferruginous"}, {"lower": "silky"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ferruginous"}, {"lower": "setose"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ferruginous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirtellous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ferruginous"}, {"lower": "furfuraceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floccose"}, {"lower": "glabrescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floccose"}, {"lower": "arachnoid"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floccose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "floccose"}, {"lower": "stellate"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flocculose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliate"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ellipsoid"}, {"lower": "cyclindric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flavescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "white"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ochraceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "powdery"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stellate"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stellate"}, {"lower": "haired"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stellate"}, {"lower": "tomentellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "strigillose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "strigose"}, {"lower": "villous"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subglabrescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subhirsute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublanate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subherbaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtomentulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subvillous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subshrublike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subovoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lime"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pulverulent"}, {"lower": "scurfy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setiferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "setose"}, {"lower": "glandular"}, {"lower": "hairy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "violaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "verrucose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "simple"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "caducuous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pillose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirsute"}, {"lower": "villous"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "adpressed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subreflexed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrecurved"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subobtrapezoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrectangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "diadelphous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordatulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subellipsoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrhombic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpyriform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glandular"}, {"lower": "puberulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hairier"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hirsute"}, {"lower": "hispid"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispid"}, {"lower": "hirsute"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpilose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "grasslike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rosette"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subauriculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdeltoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdeltate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsagittate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bipinnatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cleistocarpous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "auriculate"}, {"lower": "cordatulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trifoliolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispidulous"}, {"lower": "cilate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "hispido"}, {"lower": "pilose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "hispido"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subglabrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsericeous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "curvate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "lanceoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subclavate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subclaviform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuberiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpalmate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpinnatifid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "viscid"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subwoody"}]}
+{"label": "TRAIT", "pattern": [{"lower": "arial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sub"}, {"lower": "bipinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatiparted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "feathery"}, {"lower": "setiferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "angustate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "obtrapezoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneiform"}, {"lower": "obtrapezoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deltate"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deltoid"}, {"lower": "subovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elliptic"}, {"lower": "lance"}, {"lower": "acuminate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elliptic"}, {"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fishtail"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "setiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "spoon"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obcampanulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "long"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dwarfish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trifoliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tripinnatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trichome"}, {"lower": "covered"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtrapeziform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpalmatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpalmatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpinnatilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrid"}, {"lower": "barbellate"}, {"lower": "plumose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sericeous"}, {"lower": "tomentellose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subarborescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "obtrapeziform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "obtrapezoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "trapezoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "ovate"}, {"lower": "orbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rotund"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "polyhedral"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "trigonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semilunar"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semisagittate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subangustate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcucullate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suborbicular"}, {"lower": "subquadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "parmatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pentafoliolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sub"}, {"lower": "bipinnatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sub"}, {"lower": "bi"}, {"lower": "tripinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "flushed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "black"}, {"lower": "based"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "tawnish"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pubigerous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "silky"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obcuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ovate"}, {"lower": "lance"}, {"lower": "acuminate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pear"}, {"lower": "shaped"}, {"lower": "ellipsoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reniform"}, {"lower": "auricular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reniform"}, {"lower": "horseshoe"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reniform"}, {"lower": "rotundate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcordiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subinfundibular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subobdeltoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subobcordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suboblong"}, {"lower": "quadrangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suborbicular"}, {"lower": "subauriform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrhomboid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}, {"lower": "cordatulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aquatic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "woolly"}, {"lower": "lanulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "silky"}, {"lower": "piloso"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "soft"}, {"lower": "hairy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "glandular"}, {"lower": "hairy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subadnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subobovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subacuminate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiorbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "entire"}]}
+{"label": "TRAIT", "pattern": [{"lower": "entire"}, {"lower": "margined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublaciniate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fluffy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispido"}, {"lower": "strigoso"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "hirsuto"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "geotropic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "subauriculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subinflated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subobovoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suboblanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suboblong"}]}
+{"label": "TRAIT", "pattern": [{"lower": "clavate"}, {"lower": "obloid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "semiamplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "crispate"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "quadrangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "quadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "spatulate"}, {"lower": "quadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "subrounded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elongate"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "elongate"}, {"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cuneate"}, {"lower": "palmatisect"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fleshy"}, {"lower": "mauve"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gland"}, {"lower": "tipped"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "broadly"}, {"lower": "triangular"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "falcate"}, {"lower": "semiorbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flabellate"}, {"lower": "obtrapezoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "punctate"}, {"lower": "scaberulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "retrorse"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiconnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "acute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semicampanulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semicordate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiellipsoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semihastate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semioblong"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiovoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semitriangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynodioicous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fiddle"}, {"lower": "shaped"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "finlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "cordatulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanceolate"}, {"lower": "subulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "lance"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "lance"}, {"lower": "falcate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "cuneate"}, {"lower": "spatulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "lanceolate"}, {"lower": "elliptic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "pentagonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "quadrangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "quadrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "rhomboidal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "semilunar"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obovate"}, {"lower": "cuneiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obovate"}, {"lower": "oblong"}, {"lower": "pandurate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinescent"}, {"lower": "serrulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublabiate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "silky"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pearlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspatulate"}, {"lower": "quadrangular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subulate"}, {"lower": "lanceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliate"}, {"lower": "margined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "substrigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "root"}, {"lower": "sprouting"}]}
+{"label": "TRAIT", "pattern": [{"lower": "wooded"}]}
+{"label": "TRAIT", "pattern": [{"lower": "broad"}, {"lower": "based"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcampanulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rhombic"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "puberuent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deltoid"}, {"lower": "ovate"}, {"lower": "orbicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinulose"}, {"lower": "squamulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "oblong"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "cuneate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suboblate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semitruncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semispreading"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ochre"}]}
+{"label": "TRAIT", "pattern": [{"lower": "puberulence"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subflabellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tomentellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "shrublet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "deltate"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hazel"}]}
+{"label": "TRAIT", "pattern": [{"lower": "canaliculate"}, {"lower": "tubulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "flatted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "isomorphic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subensate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subensiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "v"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "unguicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "inermous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "clavate"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calyculiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}, {"lower": "bearing"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}, {"lower": "margined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spiny"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "erect"}, {"lower": "to"}, {"lower": "straggling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spreading"}, {"lower": "ascendant"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spreading"}, {"lower": "reflexing"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cilialike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "graminiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lax"}, {"lower": "filiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cinereous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lianoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "samaroid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subamplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcaudate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "campanulate"}, {"lower": "mitrate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "utriculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "vining"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublacerate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "penicellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lithophytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "didymous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thornless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrhizomatous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpeltate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awned"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcircinate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bicarpellate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cross"}, {"lower": "striolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "papillose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "papillose"}, {"lower": "striolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rough"}, {"lower": "papillate"}, {"lower": "glandular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cilioate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glandular"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "hispidulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "papillate"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "papillose"}, {"lower": "scurfy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "papillose"}, {"lower": "spiculose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrid"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scurfy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sericeous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "silky"}]}
+{"label": "TRAIT", "pattern": [{"lower": "silky"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tometose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "zigzig"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glandular"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suburceolate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "lanceoate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupe"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblong"}, {"lower": "ovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bipinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "schizocarpic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "beardless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perforated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}, {"lower": "edged"}]}
+{"label": "TRAIT", "pattern": [{"lower": "erect"}, {"lower": "sinuose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "follicular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "encrusted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glandulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "linear"}, {"lower": "filarious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "involute"}, {"lower": "tubulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thorn"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrepand"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subrevolute"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdigitate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsquarrose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiamplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spreading"}, {"lower": "white"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "twined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "twinned"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulb"}, {"lower": "based"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}, {"lower": "margined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "single"}, {"lower": "stoned"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stolonoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subauriculate"}, {"lower": "semiamplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdrupaceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtuberous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scaleless"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ferrugineous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "scaled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "grayish"}, {"lower": "brown"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "grayish"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "grayish"}, {"lower": "white"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "green"}, {"lower": "glabrescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "floccose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "brown"}, {"lower": "lanate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "brown"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "reddish"}, {"lower": "white"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "straw"}, {"lower": "colored"}, {"lower": "scabrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "tomentose"}, {"lower": "pilose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "woolly"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "glandular"}, {"lower": "hairy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "glandular"}, {"lower": "setose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "setose"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brown"}, {"lower": "woolly"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cinereous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "baculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bacculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "white"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "white"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "white"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "white"}, {"lower": "hispid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "silvery"}, {"lower": "gray"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "silvery"}, {"lower": "gray"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "tomentose"}, {"lower": "floccose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "whitish"}, {"lower": "brown"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "yellow"}, {"lower": "scurfy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fuscous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "green"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gray"}, {"lower": "brown"}, {"lower": "strigose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "redivided"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scapoid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pseudocapsular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rambling"}]}
+{"label": "TRAIT", "pattern": [{"lower": "violet"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "glandular"}, {"lower": "setose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sparse"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branched"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rufous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "silvery"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "squamose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "auriculate"}, {"lower": "semiamplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "awn"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "cordate"}, {"lower": "amplexicaul"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spiny"}, {"lower": "margined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spiny"}, {"lower": "fringed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsymmetric"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsymmetrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "streaked"}, {"lower": "redbrown"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcylindrical"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subovate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsarmentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dense"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "adpressed"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "brownish"}, {"lower": "white"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "crisped"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "crisp"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "glandular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rusty"}, {"lower": "red"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "short"}, {"lower": "stipitate"}, {"lower": "glandular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "strigose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dendroid"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tomentellous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tomentose"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcaespitose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "striping"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}, {"lower": "formed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sub"}, {"lower": "biseriate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "senescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bluish"}, {"lower": "tipped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpellucid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtufted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tufted"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "suckering"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "tomentose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "setose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calycine"}]}
+{"label": "TRAIT", "pattern": [{"lower": "calycular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "black"}, {"lower": "girdled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}, {"lower": "girdled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dark"}, {"lower": "lined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "purple"}, {"lower": "flecked"}]}
+{"label": "TRAIT", "pattern": [{"lower": "violet"}, {"lower": "flecked"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "flushed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "flecked"}]}
+{"label": "TRAIT", "pattern": [{"lower": "webbed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "biannual"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dioceous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "dioicous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tuberiferous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branchy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "epiphyte"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiaquatic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiscandent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "wispy"}]}
+{"label": "TRAIT", "pattern": [{"lower": "non"}, {"lower": "existent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "senescence"}]}
+{"label": "TRAIT", "pattern": [{"lower": "penninerved"}]}
+{"label": "TRAIT", "pattern": [{"lower": "penniveined"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatinerved"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pentanerved"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semipellucid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynecadrous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "didymous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "actino"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "barked"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "brown"}, {"lower": "villous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "terrestrial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rectilinear"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subcurved"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androecial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "substramineous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branching"}, {"lower": "spiculose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "puberulous"}, {"lower": "scaberulous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "plumate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rough"}, {"lower": "papillate"}, {"lower": "glandular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spinulescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semisucculent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scabrid"}, {"lower": "barbellate"}, {"lower": "plumose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspiny"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subspinulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "baculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupe"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "folliclelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tendril"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnate"}, {"lower": "fibrillose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "white"}, {"lower": "villous"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublingulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subtrilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "auricular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "branched"}, {"lower": "spiculose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bipinnatifid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "red"}, {"lower": "glandular"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "emarginate"}, {"lower": "bilobulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "emarginate"}, {"lower": "truncate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tubulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "parmatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatiparted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fawn"}, {"lower": "tomentum"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fistular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "v"}, {"lower": "shaped"}, {"lower": "conduplicate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "involute"}, {"lower": "tubulose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpinnatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpinnatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rounded"}, {"lower": "bilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "runcinate"}, {"lower": "pinnatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "runcinate"}, {"lower": "pinnatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "repand"}, {"lower": "pinnatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "repand"}, {"lower": "tricuspidate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "serrate"}, {"lower": "pinnatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "serrate"}, {"lower": "sublobulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subapiculate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lacerated"}]}
+{"label": "TRAIT", "pattern": [{"lower": "obtuse"}, {"lower": "acuminate"}, {"lower": "mucronulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "palmatilobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tripinnatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublobate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublobulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "sublobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subpalmatipartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsubulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "redivided"}]}
+{"label": "TRAIT", "pattern": [{"lower": "redividing"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdecussate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spine"}, {"lower": "formed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subdivided"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tripartite"}]}
+{"label": "TRAIT", "pattern": [{"lower": "triparted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tubulate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "spreading"}, {"lower": "ascending"}, {"lower": "ciliate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pinnatiparted"}]}
+{"label": "TRAIT", "pattern": [{"lower": "truncate"}, {"lower": "bilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsule"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "utricular"}]}
+{"label": "TRAIT", "pattern": [{"lower": "indusial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stripe"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tendril"}, {"lower": "bearing"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tendrillate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thalloid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subplane"}]}
+{"label": "TRAIT", "pattern": [{"lower": "thallose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bulbous"}, {"lower": "based"}]}
+{"label": "TRAIT", "pattern": [{"lower": "feathered"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lunate"}, {"lower": "based"}]}
+{"label": "TRAIT", "pattern": [{"lower": "oblongifolius"}, {"lower": "type"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tripinnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsulelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "capsulelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "drupelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "fistlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "treelike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tree"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "arborescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semiepiphytic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "subsucculent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "berry"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "bell"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "scurfy"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lanate"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "villoso"}]}
+{"label": "TRAIT", "pattern": [{"lower": "villous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "semilobed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "crescentiform"}]}
+{"label": "TRAIT", "pattern": [{"lower": "velutinous"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "velvety"}, {"lower": "pubescent"}]}
+{"label": "TRAIT", "pattern": [{"lower": "zigzag"}]}
+{"label": "TRAIT", "pattern": [{"lower": "adelphous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petaled"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petalous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "toothed"}]}
+{"label": "TRAIT", "pattern": [{"lower": "adaxial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "adnate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "amphibious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "basal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "egg"}, {"lower": "shaped"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynobasic"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynoecious"}]}
+{"label": "TRAIT", "pattern": [{"lower": "insectivorous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "lemon"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigynous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petal"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petaloid"}]}
+{"label": "TRAIT", "pattern": [{"lower": "radiating"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ramified"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ramose"}]}
+{"label": "TRAIT", "pattern": [{"lower": "aerial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "androphore"}]}
+{"label": "TRAIT", "pattern": [{"lower": "epichilium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynaecium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynoecium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynoecia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynophore"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigynium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigynia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistil"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillode"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillodium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillodia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stamen"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stigma"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stigmas"}]}
+{"label": "TRAIT", "pattern": [{"lower": "style"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stylopodium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stylopodia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tooth"}]}
+{"label": "TRAIT", "pattern": [{"lower": "toothlet"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trophophyll"}]}
+{"label": "TRAIT", "pattern": [{"lower": "carpels"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petals"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistils"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stamens"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillates"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillate"}, {"lower": "zone"}]}
+{"label": "TRAIT", "pattern": [{"lower": "staminates"}]}
+{"label": "TRAIT", "pattern": [{"lower": "style"}, {"lower": "branches"}]}
+{"label": "TRAIT", "pattern": [{"lower": "style"}, {"lower": "branch"}]}
+{"label": "TRAIT", "pattern": [{"lower": "gynophores"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perianths"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillodes"}]}
+{"label": "TRAIT", "pattern": [{"lower": "tooth"}, {"lower": "tips"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petaloids"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petal"}, {"lower": "scale"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ramification"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigone"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ramifications"}]}
+{"label": "TRAIT", "pattern": [{"lower": "toothlike"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petal"}, {"lower": "like"}]}
+{"label": "TRAIT", "pattern": [{"lower": "carpodia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistil"}, {"lower": "hair"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigyinia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "peryginia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perygynia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perygynium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigonia"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigonium"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trophophore"}]}
+{"label": "TRAIT", "pattern": [{"lower": "trophophores"}]}
+{"label": "TRAIT", "pattern": [{"lower": "carpogenous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "petal"}, {"lower": "form"}]}
+{"label": "TRAIT", "pattern": [{"lower": "ramiflorous"}]}
+{"label": "TRAIT", "pattern": [{"lower": "stamen"}, {"lower": "bearing"}]}
+{"label": "TRAIT", "pattern": [{"lower": "basilar"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigoniate"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rebranched"}]}
+{"label": "TRAIT", "pattern": [{"lower": "pistillodial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rebranching"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigonal"}]}
+{"label": "TRAIT", "pattern": [{"lower": "perigonial"}]}
+{"label": "TRAIT", "pattern": [{"lower": "rimose"}]}
