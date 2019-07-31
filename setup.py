@@ -11,9 +11,17 @@ with open('README.rst') as readme_file:
     readme = readme_file.read()
 
 requirements = [
-    # 'Click>=6.0',
-    # 'click-log',
+    'requests',
+    'requests-cache',
+    'scikit-learn==0.21.2',
+    'click',
+    'pandas',
+    'Pillow',
+    'scispacy==0.2.2',
+    'joblib',
+    'nltk'
 ]
+
 
 setup_requirements = []
 
@@ -46,9 +54,9 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
 
-    # entry_points={
-    #     'console_scripts': [
-    #         'leventis=leventis.cli:main',
-    #     ],
-    # },
+    entry_points={
+        'console_scripts': [
+            'leventis=leventis.cli:main',
+        ],
+    },
 )
