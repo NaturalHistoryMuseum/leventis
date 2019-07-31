@@ -14,7 +14,7 @@ from leventis.helpers import nlp_add_or_replace_pipe
 
 class NLP(object):
 
-    data_path = Path('../data')
+    data_path = Path(__file__).resolve().parent / 'data'
 
     model_path = data_path / 'models'
 
