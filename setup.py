@@ -4,6 +4,7 @@ import re
 
 from setuptools import find_packages
 from setuptools import setup
+from glob import glob
 
 
 with open('README.rst') as readme_file:
@@ -42,6 +43,8 @@ setup(
 
     packages=find_packages(exclude=('tests',)),
 
+    package_data={'leventis': ['data/*', 'data/models/*']},
+
     install_requires=requirements,
     setup_requires=setup_requirements,
 
@@ -49,8 +52,8 @@ setup(
     tests_require=test_requirements,
 
     entry_points={
-        'console_scripts': [
-            'leventis=leventis.cli:leventis',
-        ],
+        # 'console_scripts': [
+        #     'leventis=leventis.cli:leventis',
+        # ],
     },
 )
