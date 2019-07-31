@@ -13,11 +13,6 @@ with open('README.rst') as readme_file:
 requirements = [
     # 'Click>=6.0',
     # 'click-log',
-    'jupyter',
-    'pandas',
-    'Pillow',
-    'requests',
-    'requests-cache'
 ]
 
 setup_requirements = []
@@ -51,9 +46,9 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
 
-    entry_points={
-        # 'console_scripts': [
-        #     'leventis=leventis.cli:leventis',
-        # ],
-    },
+    # entry_points={
+    #     'console_scripts': [
+    #         'leventis=leventis.cli:main',
+    #     ],
+    # },
 )
